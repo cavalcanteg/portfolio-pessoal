@@ -6,5 +6,4 @@ Projeto simples desenvolvido com HTML e CSS, com foco em prática de estruturaç
 - HTML5
 - CSS3
 
-## 🌍 Projeto online
-https://cavalcanteg.github.io/portfolio-pessoal/
+
